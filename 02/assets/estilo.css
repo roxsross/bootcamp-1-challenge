@@ -1,0 +1,21 @@
+
+body{
+  font-size: 20px;
+  margin-bottom: 350px;
+}
+
+h1,h2,h3{
+  color: #0275d8;
+}
+
+.main-container{
+  margin-top: 50px;
+}
+
+.solucion{
+  display: none;
+}
+
+img{
+  margin-bottom: 20px;
+}
